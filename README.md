@@ -11,5 +11,5 @@ npm install
 # start dev app at localhost:8080
 npm run dev
 
-# start production app at loclhost:5000
+# start production app at loclahost:5000
 serve -s dist
